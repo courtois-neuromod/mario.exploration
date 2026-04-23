@@ -1,0 +1,12 @@
+
+###########################
+###   2026-04-02 19:25:59.862317    ###
+###########################
+698074881d252d37dd9bc4d2 saw less than 80% of video DURATION for 10 AND had extrem AGREEMENT measure: [0.5506756756756757, -0.13094639883829373, 0.17724458204334365] (percent, kappa, dice)
+6266aba991affe86ae58ce07 saw less than 80% of video DURATION for 16 AND had extrem AGREEMENT measure: [0.6114864864864864, -0.0028265851795263863, 0.2589375208820581] (percent, kappa, dice)
+6151cac776c9ba6b61b3351b saw less than 80% of video DURATION for 2 AND had extrem AGREEMENT measure: [0.3952702702702703, 0.09422564048540172, 0.43373205741626797] (percent, kappa, dice)
+5e7a0cc0c4ee0904d8d5f154 saw less than 80% of video DURATION for 2 AND had extrem AGREEMENT measure: [0.4695945945945946, 0.1009854211321462, 0.4354668912517107] (percent, kappa, dice)
+6997dd1f7023de25b5608079 saw less than 80% of video DURATION for 30 AND had extrem AGREEMENT measure: [0.5743243243243243, 0.05767258215293802, 0.3611111111111111] (percent, kappa, dice)
+69835875bb8198dfcaf4deaa saw less than 80% of video DURATION for 70 AND had extrem AGREEMENT measure: [0.6114864864864864, 0.04115264693309484, 0.31228423475258915] (percent, kappa, dice)
+655fe1e57ede6fae3cc26bf0 saw less than 80% of video DURATION for 2 AND had extrem AGREEMENT measure: [0.5675675675675675, -0.07563025210084029, 0.21951219512195122] (percent, kappa, dice)
+66a9d46ff5d39bbede9f2e92 saw less than 80% of video DURATION for 39 AND had extrem AGREEMENT measure: [0.5709459459459459, -0.0006388415672913816, 0.2971421592574499] (percent, kappa, dice)
