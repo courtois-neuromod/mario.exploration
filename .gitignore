@@ -1,4 +1,4 @@
-sourcedata/*
-outputdata/*
-code/my_analysis/__init__.py
-code/my_analysis/__pycache__/
+sourcedata/
+outputdata/
+__pycache__/
+*.pyc
