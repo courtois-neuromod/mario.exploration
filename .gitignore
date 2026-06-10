@@ -2,3 +2,4 @@ sourcedata/
 outputdata/
 __pycache__/
 *.pyc
+todo.txt
